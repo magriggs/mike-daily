@@ -10,4 +10,5 @@ Principles
 	2. "I seek to understand, before I seek to be understood"
 	3. Really good leaders have no *need* to be right, they're trying to do the right thing.
 3. True Self-confidence
-	1. 
+	1. Have you reached the point in your career where you're willing to admit you "don't know"
+	2. Can you say, "I was wrong"?
