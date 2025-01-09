@@ -1,3 +1,4 @@
-Six Principles:
+Six Principles
 
-1. 
+1. Self-reflection
+	1. Take 
