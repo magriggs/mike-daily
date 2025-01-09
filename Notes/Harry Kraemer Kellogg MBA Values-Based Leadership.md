@@ -1,4 +1,4 @@
-Six Principles
+Principles
 
 1. Self-reflection
 	1. Take time on your own. Turn off devices. Ask questions such as:
