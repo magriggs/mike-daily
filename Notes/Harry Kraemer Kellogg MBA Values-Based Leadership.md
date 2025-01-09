@@ -9,4 +9,5 @@ Principles
 	1. Many subjects make people have very strong opinions. Problem is, those people often don't take the time to understand others' opinions.
 	2. "I seek to understand, before I seek to be understood"
 	3. Really good leaders have no *need* to be right, they're trying to do the right thing.
-	4. 
+3. True Self-confidence
+	1. 
