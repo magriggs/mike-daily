@@ -12,3 +12,5 @@ Principles
 3. True Self-confidence
 	1. Have you reached the point in your career where you're willing to admit you "don't know"
 	2. Can you say, "I was wrong"?
+4. Genuine humility
+	1. 
