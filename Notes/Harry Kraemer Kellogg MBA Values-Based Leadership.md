@@ -6,5 +6,6 @@ Principles
 		2. What is my purpose?
 		3. What really matters?
 2. Balance
-	1. Many subjects make people have very strong opinions. Problem is, those people 
-	2. 
+	1. Many subjects make people have very strong opinions. Problem is, those people often don't take the time to understand others' opinions.
+	2. "I seek to understand, before I seek to be understood"
+	3. 
