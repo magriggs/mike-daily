@@ -27,6 +27,9 @@ This inconsistent treatment requires clear justification. The difference between
 
 ## Requested Outcome
 
+I respectfully request that my fee status be reclassified to 'home' status, aligning with my sister's classification. Without this correction, both Hannah and I will be forced to withdraw our applications and attend other universities where we can remain together. 
+
+
 I respectfully request that my fee status be reclassified to 'home' status, aligning with my sister's classification.
 
 I would appreciate a response outlining the decision, and the reasons for it, within 10 working days. I have already provided significant documentation on this matter to the admissions department, and to the specific admissions officer who designated me incorrectly, so this should assist with your review.
