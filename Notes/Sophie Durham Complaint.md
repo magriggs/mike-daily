@@ -1,8 +1,10 @@
 
-[Your Name]
-[Your Address]
-[Your Contact Information]
-[Date]
+Valentina Tocco
+34, Woodland Road
+Cambridge
+CB22 3DU
+
+13 March, 2025
 
 Admissions Office
 Durham University
@@ -28,8 +30,6 @@ I request an immediate review of Sophie's fee status classification.  Such incon
 
 This inconsistent treatment of twins, both British citizens with identical life-long residency backgrounds, requires clear justification. The difference between home and international fees constitutes a significant barrier to Sophie's education. Given the national imperative to encourage female participation in STEM fields, this situation warrants particularly careful consideration. Unjustified, the situation has a potential for reputational damage to Durham University.
 
-The timeline for accepting university offers is approaching.
-
 ## Requested Outcome
 
 I respectfully request that Sophie's fee status be reclassified to 'home' status, aligning with her sister's classification and reflecting their shared citizenship and residency eligibility under UK regulations.
@@ -38,7 +38,7 @@ I would appreciate a response outlining the decision, and the reasons for it, wi
 
 Thank you for your attention to this matter.
 
-Yours sincerely,
+Yours faithfully,
 
 M A Griggs
 
