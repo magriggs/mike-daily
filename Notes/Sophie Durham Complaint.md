@@ -10,9 +10,9 @@ Durham DH1 3LE
 Dear Sir/Madam,
 
 I wish to complain about the decision to classify me, Sophie Griggs, as an international student for fee purposes for the Computer Science programme at Durham University. This classification is directly contradictory to my twin sister, Hannah Griggs (UCAS 1864262609), who has been categorised as a home student, and offered a place in the Natural Sciences programme.
-This inconsistent treatment of twins, both British citizens with identical residency backgrounds, raises questions about fairness and transparency in the admissions process at Durham University. For the avoidance of d, there is no basis for our fee status to be determined by our academic choices or course selection.
+This inconsistent treatment of twins, both British citizens with identical residency backgrounds, raises questions about fairness and transparency in the admissions process at Durham University. For the avoidance of doubt, there is no basis for our fee status to be determined by our academic choices or course selection.
 
-Given the seriousness of this discrepancy, significant previous correspondence with the admissions department to provide documentation, etc., and the limited time remaining to accept university offers, I am submitting this complaint directly to the formal Stage 2 process, as outlined in the University's Complaints Procedure for Applicants. I believe a formal review is immediately necessary to resolve this urgent matter fairly and transparently.
+Given the seriousness of this discrepancy, significant previous correspondence with the admissions department to provide documentation, ., and the limited time remaining to accept university offers, I am submitting this complaint directly to the formal Stage 2 process, as outlined in the University's Complaints Procedure for Applicants. I believe a formal review is immediately necessary to resolve this urgent matter fairly and transparently.
 
 ## Background
 
