@@ -14,12 +14,11 @@ I am writing to appeal the decision to classify my daughter, Sophie Griggs, as a
 
 ## Request for Review
 
-I request an immediate review of Sophie's fee status classification.  Such inconsistent treatment of twins, both British citizens with identical residency backgrounds, raises serious questions about fairness and transparency in the fee assessment process. For the avoidance of doubt, there is no basis for their fee status to be determined on their academic background or course selection.
+I request an immediate review of Sophie's fee status classification. Such inconsistent treatment of twins, both British citizens with identical residency backgrounds, raises serious questions about fairness and transparency in the fee assessment process. For the avoidance of doubt, there is no basis for their fee status to be determined on their academic background or course selection.
+
 ## Background
 
-My daughters, Hannah and Sophie, are both natural-born British citizens with identical residency backgrounds. They have resided at the same address and under the same circumstances their entire lives.  Both daughters have received "home" student classifications from other UK universities to which they have applied.
-
-While Hannah has been classified as a 'home' student by Durham University for the Natural Sciences programme, Sophie has been designated as an international student for Computer Science.
+My daughters, Hannah and Sophie, are both natural-born British citizens with identical residency backgrounds. They have resided at the same address and under the same circumstances their entire lives. Both daughters have received "home" student classifications from other UK universities to which they have applied. However, despite their identical backgrounds, Durham University has classified Hannah as 'home' and Sophie as 'international'. This inconsistency requires urgent review.
 
 ## Wider Implications
 
