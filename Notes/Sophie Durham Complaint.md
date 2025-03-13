@@ -22,7 +22,7 @@ While Hannah has been classified as a 'home' student by Durham University for th
 
 ## Request for Review
 
-I request an immediate review of Sophie's fee status classification.  The contradictory designation of two students with identical backgrounds raises serious concerns. Their academic choices and performance have no bearing on their fee status eligibility; their citizenship and residency history are the sole determinants.
+I request an immediate review of Sophie's fee status classification.  Such inconsistent treatment of twins, both British citizens with identical residency backgrounds, raises serious questions about fairness and transparency in the fee assessment process. For the avoidance of doubt, there is no basis for their fee status to be determined on their academic background or course selection.
 
 ## Wider Implications
 
