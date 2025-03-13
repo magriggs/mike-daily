@@ -8,11 +8,11 @@ Admissions Office
 Durham University
 Durham DH1 3LE
 
-**Re: Fee Status Discrepancy for Sophie [Your Surname] - Computer Science Programme**
+**Re: Fee Status Discrepancy for Sophie Griggs (UCAS 1864262306) - Computer Science Programme**
 
 Dear Sir/Madam,
 
-I am writing to appeal the decision to classify my daughter, Sophie [Your Surname], as an international student for fee purposes for the Computer Science programme at Durham University. This classification differs from the "home" fee status granted to her twin sister, Hannah [Your Surname], who has been accepted to the Natural Sciences programme.
+I am writing to appeal the decision to classify my daughter, Sophie Griggs, as an international student for fee purposes for the Computer Science programme at Durham University. This classification differs from the "home" fee status granted to her twin sister, Hannah Griggs, who has been accepted to the Natural Sciences programme.
 
 ## Background
 
