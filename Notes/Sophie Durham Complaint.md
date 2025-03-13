@@ -19,15 +19,13 @@ My daughters, Hannah and Sophie, are both natural-born British citizens with ide
 ## Request for Review
 
 I request an immediate review of Sophie's fee status classification. Such inconsistent treatment of twins, both British citizens with identical residency backgrounds, raises serious questions about fairness and transparency in the admissions process at Durham University. For the avoidance of doubt, there is no basis for their fee status to be determined on their academic background or course selection.
-
-
 ## Wider Implications
 
-This inconsistent treatment of twins, both British citizens with identical life-long residency backgrounds, requires clear justification. The difference between home and international fees constitutes a significant barrier to Sophie's education. Given the national imperative to encourage female participation in STEM fields, this situation warrants particularly careful consideration. Unjustified, the situation has a potential for reputational damage to Durham University.
+This inconsistent treatment of twins, both British citizens with identical life-long residency backgrounds, requires clear justification. The difference between home and international fees constitutes a significant barrier to Sophie's education. Given the national imperative to encourage female participation in STEM fields, this situation warrants particularly careful consideration. Unjustified, the situation has the potential for reputational damage to Durham University.
 
 ## Requested Outcome
 
-I respectfully request that Sophie's fee status be reclassified to 'home' status, aligning with her sister's classification and reflecting their shared citizenship and residency eligibility under UK regulations.
+I respectfully request that Sophie's fee status be reclassified to 'home' status, aligning with her sister's classification. 
 
 I would appreciate a response outlining the decision, and the reasons for it, within 10 working days. I have already provided significant documentation on this matter to the admissions department, and to the specific admissions officer who designated Sophie incorrectly.
 
