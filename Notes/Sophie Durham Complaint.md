@@ -9,7 +9,7 @@ Durham DH1 3LE
 
 Dear Sir/Madam,
 
-I am writing to appeal the decision to classify me, Sophie Griggs, as an international student for fee purposes for the Computer Science programme at Durham University. This classification is inconsistent with the "home" fee status granted to my twin sister, Hannah Griggs (UCAS 1864262609), who has been offered a place in the Natural Sciences programme.
+I wish to complain about the decision to classify me, Sophie Griggs, as an international student for fee purposes for the Computer Science programme at Durham University. This classification is inconsistent with the "home" fee status granted to my twin sister, Hannah Griggs (UCAS 1864262609), who has been offered a place in the Natural Sciences programme.
 
 ## Request for Review
 
