@@ -34,12 +34,11 @@ The timeline for accepting university offers is approaching.
 
 I respectfully request that Sophie's fee status be reclassified to 'home' status, aligning with her sister's classification and reflecting their shared citizenship and residency eligibility under UK regulations.
 
-I would appreciate a response outlining the decision, and the reasons for it, within 10 working days. Should you require any additional documentation regarding my daughters' citizenship or residency, I am happy to provide it. We are particularly keen to understand what evidence was used as part of the original decision-making process.
+I would appreciate a response outlining the decision, and the reasons for it, within 10 working days. I have already provided significant documentation on this matter to the admissions department, and to the specific admissions officer who designated Sophie incorrectly.
 
 Thank you for your attention to this matter.
 
 Yours sincerely,
 
-[Your Name]
+M A Griggs
 
-Enc: [List any supporting documents you plan to include, such as copies of birth certificates, passports, other university offers with 'home' status, proof of address]
