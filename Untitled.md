@@ -15,13 +15,6 @@ WealthGuardian's specialized financial LLM analyzes inputs through:
 2. **Regulatory Alignment**: Ensures compliance with SEC Reg BI standards
 3. **Historical Pattern Recognition**: Matches scenarios to successful historical portfolios
 
-### What safeguards ensure responsible AI usage?
-
-- **Bias Mitigation**: Regular audits using NIST AI Risk Management Framework
-- **Compliance Checks**: Real-time verification against FINRA Rule 2111 (Suitability)
-- **Human Oversight**: Certified financial planners review 20% of AI recommendations
-
-
 ## Revised Internal FAQs
 
 ### How do we implement NLP portfolio generation?
@@ -35,19 +28,6 @@ Our 3-day hackathon strategy leverages:
 Updated integration flow:
 `User input → Financial LLM parsing → SEC-compliant template selection → Simulation → Plain English summary`
 
-### Post-hackathon regulatory roadmap
-
-1. **FINRA Validation**: Partner with regulatory tech auditors
-2. **Regulation D Integration**: Automated accreditation checks
-3. **Form ADV Alignment**: AI-generated disclosure documentation
-
-## Enhanced Security Protocols
-
-- **SOC 2 Type II Certified** data handling
-- **FIPS 140-2 Validated** cryptographic modules
-- **SEC Regulation S-P Compliance**: Personal data protection
-
-This revision maintains the core functionality while generalizing the AI/LLM references to focus on financial compliance and proprietary systems, aligning with institutional wealth management standards[^2][^5].
 
 <div style="text-align: center">⁂</div>
 
