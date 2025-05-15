@@ -83,3 +83,4 @@ This streamlined, agentic AI-driven approach transforms WealthGuardian into an i
 ## Feedback
 
 Validation/human in the loop testing
+look at previous porfolios
