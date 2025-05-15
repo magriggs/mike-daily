@@ -78,3 +78,8 @@ Our 3-day hackathon strategy includes:
 
 This streamlined, agentic AI-driven approach transforms WealthGuardian into an intelligent, proactive portfolio assistant-delivering institutional-grade insights and simulations directly to individual investors.
 
+***
+
+## Feedback
+
+Validation/human in the loop testing
