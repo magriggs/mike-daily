@@ -5,3 +5,4 @@
 	* https://docs.aws.amazon.com/vpc/latest/privatelink/privatelink-access-saas.html
 * Redundant Direct Connect architectures, particularly the VIFs
 * AWS Application Migration Service (MGN), AWS Application Discovery Service, AWS Migration Hub
+* Configuration of PrivateLink/VPC endpoints.
